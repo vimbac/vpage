@@ -1,5 +1,0 @@
-baseurl: # ypage.vim.org.cn
-languageCode: zh-cn # 网站语言
-theme: hugo-theme-stack
-paginate: 5
-title: hugo测试
